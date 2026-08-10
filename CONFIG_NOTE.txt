@@ -1,0 +1,3 @@
+Before deployment:
+Replace __RAZORPAY_KEY_ID__ in public/index.html with your Razorpay TEST or LIVE Key ID.
+Never put the Razorpay Key Secret in frontend code.
